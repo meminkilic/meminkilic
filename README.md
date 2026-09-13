@@ -9,7 +9,7 @@ uçtan uca geliştirdiğim mobil ürünler.
 - 🗺️ Uzmanlık: kadastro, parselasyon (18. madde), imar uygulamaları, mekânsal analiz,
   drone verisi (ortofoto / DSM / DTM)
 - 💻 Kendi kendine öğrenmiş, tek kişilik geliştirici: tasarımdan yayına kadar tüm aşamalar
-- 📫 İletişim: [e-posta](mailto:meminkilic@ymail.com) · [LinkedIn](linkedin.com/in/mehmet-emin-kiliç-650224271)
+- 📫 İletişim: [e-posta](mailto:meminkilic@ymail.com) · [LinkedIn](https://www.linkedin.com/in/mehmet-emin-kili%C3%A7-650224271)
 
 ---
 
